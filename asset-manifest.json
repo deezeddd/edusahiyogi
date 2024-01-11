@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edusahiyogi/static/css/main.6d3db8db.css",
+    "main.js": "/edusahiyogi/static/js/main.53caf37e.js",
+    "static/js/787.f2e0a9ed.chunk.js": "/edusahiyogi/static/js/787.f2e0a9ed.chunk.js",
+    "static/media/logo.svg": "/edusahiyogi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edusahiyogi/index.html",
+    "main.6d3db8db.css.map": "/edusahiyogi/static/css/main.6d3db8db.css.map",
+    "main.53caf37e.js.map": "/edusahiyogi/static/js/main.53caf37e.js.map",
+    "787.f2e0a9ed.chunk.js.map": "/edusahiyogi/static/js/787.f2e0a9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3db8db.css",
+    "static/js/main.53caf37e.js"
+  ]
+}
